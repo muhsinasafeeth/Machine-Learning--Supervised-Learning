@@ -1,6 +1,3 @@
-Here’s a **detailed, high-quality README.md** you can directly paste into GitHub (this will make your project look professional and score higher) 👇
-
----
 
 # 📘 ML Assignment 2 – Regression Analysis
 
